@@ -87,12 +87,3 @@ I specialize in crafting seamless user experiences that are both intuitive and e
 
 <br/>  
 
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
