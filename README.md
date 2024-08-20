@@ -15,7 +15,7 @@
 
 
 ### < Hello World ! />  
-I’m a full-stack developer who has turned years of freelancing into a full-time career, with a strong focus on frontend development. Being a full-stack developer allows me to not only create visually stunning and highly responsive client-facing apps and websites but also ensure they are built on a solid foundation.
+I’m a full-stack developer who has turned a hobby into a full-time career, with a strong focus on frontend development. Being a full-stack developer allows me to not only create visually stunning and highly responsive client-facing apps and websites but also ensure they are built on a solid foundation.
 
 I specialize in crafting seamless user experiences that are both intuitive and engaging. I love designing interfaces that are fast yet visually compelling, interactive yet simple, and accessible yet innovative.   
   
