@@ -26,27 +26,25 @@ I specialize in crafting seamless user experiences that are both intuitive and e
 ## Rapidfire  
 Of course! Here is a complete Markdown table with four phrases on each side, all in English, ready to be copied into your GitHub README.
 
-Complete Table Option
-&lt;table>
-&lt;tr>
-&lt;td valign="top" width="50%">
-&lt;ul>
-&lt;li>🔭 Shaping digital experiences at Lilab!&lt;/li>
-&lt;li>🌱 Always exploring the future of user interfaces.&lt;/li>
-&lt;li>⚡️ Specializing in human-centered design & rapid prototyping.&lt;/li>
-&lt;li>🎯 Focused on creating intuitive and accessible products.&lt;/li>
-&lt;/ul>
-&lt;/td>
-&lt;td valign="top" width="50%">
-&lt;ul>
-&lt;li>🧠 Exploring AI's role in creative workflows.&lt;/li>
-&lt;li>🎨 Passionate about design systems and microinteractions.&lt;/li>
-&lt;li>🤝 Let's collaborate on an innovative project!&lt;/li>
-&lt;li>💬 Connect with me on &lt;a href="https://www.linkedin.com/in/pedro-gandola/">LinkedIn&lt;/a>.&lt;/li>
-&lt;/ul>
-&lt;/td>
-&lt;/tr>
-&lt;/table>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <ul>
+        <li>🔭 I build human-centered experiences at <b>Lilab</b>.</li>
+        <li>🌱 I'm focused on accessibility & AI in design.</li>
+        <li>⚡️ I turn complex problems into simple, elegant solutions.</li>
+        <li>🛠️ <b>Tools:</b> Figma, Framer, Protopie, and lots of coffee.</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <ul>
+        <li>💬 Ask me about design systems & user research.</li>
+        <li>🤝 I’m open to collaborating on impactful projects.</li>
+        <li>📫 You can find me on <a href="https://www.linkedin.com/in/pedro-gandola/">LinkedIn</a>.</li>
+      </ul>
+    </td>
+  </tr>
+
 <br/>  
 
 
