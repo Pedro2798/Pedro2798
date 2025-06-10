@@ -24,20 +24,29 @@ I specialize in crafting seamless user experiences that are both intuitive and e
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+Of course! Here is a complete Markdown table with four phrases on each side, all in English, ready to be copied into your GitHub README.
 
-- 🔭 I’m currently working on my Henry´s Project  
-  
-
-- 🌱 I’m currently learning UX | UI innovative options   
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
+Complete Table Option
+&lt;table>
+&lt;tr>
+&lt;td valign="top" width="50%">
+&lt;ul>
+&lt;li>🔭 Shaping digital experiences at Lilab!&lt;/li>
+&lt;li>🌱 Always exploring the future of user interfaces.&lt;/li>
+&lt;li>⚡️ Specializing in human-centered design & rapid prototyping.&lt;/li>
+&lt;li>🎯 Focused on creating intuitive and accessible products.&lt;/li>
+&lt;/ul>
+&lt;/td>
+&lt;td valign="top" width="50%">
+&lt;ul>
+&lt;li>🧠 Exploring AI's role in creative workflows.&lt;/li>
+&lt;li>🎨 Passionate about design systems and microinteractions.&lt;/li>
+&lt;li>🤝 Let's collaborate on an innovative project!&lt;/li>
+&lt;li>💬 Connect with me on &lt;a href="https://www.linkedin.com/in/pedro-gandola/">LinkedIn&lt;/a>.&lt;/li>
+&lt;/ul>
+&lt;/td>
+&lt;/tr>
+&lt;/table>
 <br/>  
 
 
