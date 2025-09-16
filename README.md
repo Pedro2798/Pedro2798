@@ -24,8 +24,6 @@ I specialize in crafting seamless user experiences that are both intuitive and e
 
 
 ## Rapidfire  
-Of course! Here is a complete Markdown table with four phrases on each side, all in English, ready to be copied into your GitHub README.
-
 <table>
   <tr>
     <td valign="top" width="50%">
