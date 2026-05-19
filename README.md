@@ -99,15 +99,6 @@ I'm a fullstack developer who has shipped in **fintech, sports-tech and one of t
 - **Generative AI Software Engineering** — Vanderbilt via Coursera *(2025)*
 - **Full Stack Web Developer (800h)** — SoyHenry Bootcamp *(2024)*
 
----
-
-### 📊 GitHub
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pedro2798&style=for-the-badge&color=0A0A0A&label=Profile+Views" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Pedro2798?style=for-the-badge&logo=github&logoColor=white&color=0A0A0A&label=Followers" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Pedro2798?style=for-the-badge&logo=github&logoColor=white&color=0A0A0A&label=Total%20Stars" alt="Stars" />
-</p>
 
 ---
 
