@@ -34,6 +34,7 @@ I'm a fullstack developer who has shipped in **fintech, sports-tech and one of t
 - 🧠 Obsessed with shipping fast without sacrificing quality — Lighthouse 95+, low-latency real-time UIs, pixel-perfect delivery.
 - 🌱 Currently learning more about agentic AI systems and production-grade LLM orchestration.
 - 📚 A quiet obsession with learning — one certificate at a time.
+- 🌐 Portfolio → **[pedrogandola.dev](https://pedrogandola.dev/en)**
 
 ---
 
@@ -100,15 +101,12 @@ I'm a fullstack developer who has shipped in **fintech, sports-tech and one of t
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pedro2798&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Pedro's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro2798&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Pedro2798&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://komarev.com/ghpvc/?username=Pedro2798&style=for-the-badge&color=0A0A0A&label=Profile+Views" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Pedro2798?style=for-the-badge&logo=github&logoColor=white&color=0A0A0A&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Pedro2798?style=for-the-badge&logo=github&logoColor=white&color=0A0A0A&label=Total%20Stars" alt="Stars" />
 </p>
 
 ---
