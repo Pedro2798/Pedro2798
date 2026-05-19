@@ -1,94 +1,118 @@
-## Hey! I´m Pedro Gandola!  
-  
+<h1 align="center">Hi, I'm Pedro Gandola 👋</h1>
 
-<a href="https://github.com/Pedro2798" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/pedro-gandola" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/pedrogandola" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-  
+<p align="center">
+  <b>Fullstack Developer · AI Engineer</b><br>
+  Building with TypeScript, Next.js & Node — and going deeper into AI every day:<br>
+  LLM-powered features, RAG pipelines and autonomous agents.
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Based%20in-Buenos%20Aires,%20AR-0A0A0A?style=flat-square" alt="Location" />
+  <img src="https://img.shields.io/badge/Currently%20@-CapoGrowth-1C3C3C?style=flat-square" alt="Currently at CapoGrowth" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-3ECF8E?style=flat-square" alt="Open to collaboration" />
+</p>
 
+<p align="center">
+  <a href="https://linkedin.com/in/pedro-gandola">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:pedrogandola@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://pedrogandola.dev/en">
+    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
-### < Hello World ! />  
-I’m a full-stack developer who has turned a hobby into a full-time career, with a strong focus on frontend development. Being a full-stack developer allows me to not only create visually stunning and highly responsive client-facing apps and websites but also ensure they are built on a solid foundation.
+---
 
-I specialize in crafting seamless user experiences that are both intuitive and engaging. I love designing interfaces that are fast yet visually compelling, interactive yet simple, and accessible yet innovative.   
-  
+### 🚀 About me
 
-<br/>  
+I'm a fullstack developer who has shipped in **fintech, sports-tech and one of the world's top-3 tech companies**. These days I spend most of my time at the intersection of **product engineering and AI** — designing intelligent agents and RAG pipelines that automate complex workflows end to end.
 
+- 🔭 **Now @ CapoGrowth** — leading end-to-end development of Minimal Evolvable Products (MEPs) at an AI-First firm. Architecting agents & RAG pipelines with **LangChain / LangGraph**.
+- 🧠 Obsessed with shipping fast without sacrificing quality — Lighthouse 95+, low-latency real-time UIs, pixel-perfect delivery.
+- 🌱 Currently learning more about agentic AI systems and production-grade LLM orchestration.
+- 📚 A quiet obsession with learning — one certificate at a time.
 
-## Rapidfire  
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <ul>
-        <li>🔭 I build human-centered experiences at <b>Lilab</b>.</li>
-        <li>🌱 I'm focused on accessibility & AI in design.</li>
-        <li>⚡️ I turn complex problems into simple, elegant solutions.</li>
-        <li>🛠️ <b>Tools:</b> Figma, Framer, Protopie, and lots of coffee.</li>
-      </ul>
-    </td>
-    <td valign="top" width="50%">
-      <ul>
-        <li>💬 Ask me about design systems & user research.</li>
-        <li>🤝 I’m open to collaborating on impactful projects.</li>
-        <li>📫 You can find me on <a href="https://www.linkedin.com/in/pedro-gandola/">LinkedIn</a>.</li>
-      </ul>
-    </td>
-  </tr>
+---
 
-<br/>  
+### 🛠️ Tech Stack
 
+**AI & LLM**
 
-## Languages and Tools  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="25" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="25" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="25" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="25" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="25" /></a>  
-<a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="25" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="25" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="25" /></a>  
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="25" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" /></a>  
-</div>  
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-2F6868?style=flat-square&logo=langchain&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-<br/>  
+**Frontend**
 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+**Backend & Data**
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pedro2798&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
-</td><td valign="top" width="50%">
+**Cloud & Tooling**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro2798&hide_border=true&layout=compact" align="left" style="width: 100%" />
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-</td></tr></table>  
+---
 
-<br/>  
+### 💼 Selected Experience
 
-  
+| When | Role | Company |
+|------|------|---------|
+| Feb 2026 – Present | Fullstack Developer · AI Engineer | **CapoGrowth** — agents & RAG pipelines (LangChain/LangGraph) |
+| Oct 2025 – Feb 2026 | Fullstack Developer | **Only Genius** — low-latency high-frequency trading platform |
+| Jul 2025 – Oct 2025 | Frontend Developer | **Hogarth** — regional web for a top-3 global tech company |
+| Apr 2025 – Jul 2025 | Frontend Developer | **Lilab** — mission-critical sports-tech features (AWS Lambda) |
+| Oct 2024 – Feb 2025 | Frontend Developer | **Libro de Pases** — sports-tech data visualization engine |
+| Sep 2024 – Mar 2025 | Frontend Dev · Acting PO | **SharpPixAI** — AI image platform MVP in 30 days |
 
-<br/>  
+---
 
+### 🎓 Credentials
+
+- **Tecnicatura en Programación** — Universidad Tecnológica Nacional *(in progress)*
+- **RAG and Agentic AI Professional Certificate** — IBM via Coursera *(2026)*
+- **AI Engineer** — SoyHenry *(2026)*
+- **Generative AI Software Engineering** — Vanderbilt via Coursera *(2025)*
+- **Full Stack Web Developer (800h)** — SoyHenry Bootcamp *(2024)*
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pedro2798&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Pedro's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro2798&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Pedro2798&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+---
+
+<p align="center">
+  <i>Let's build something. 🚀</i>
+</p>
